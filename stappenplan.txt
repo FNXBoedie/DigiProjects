@@ -1,0 +1,85 @@
+Het is een slim idee om met interne projecten te beginnen, aangezien die minder afhankelijk zijn van externe samenwerking en makkelijker te beheren zijn als je net begint. Hier is een voorgestelde volgorde van projecten, beginnend met diegene die minder externe input vereist en die het makkelijkst te implementeren zijn.
+
+Door te starten met interne, kleine projecten, kan het team ervaring opdoen, leren en itereren zonder druk van externe partners. Daarna kunnen we langzaam uitbreiden naar grotere, meer samenwerkingsgerichte initiatieven.
+
+
+
+**Volgorde samengevat:**				Duratie				**Gelijktijdig**
+
+
+1. Custom QR codes maken				1 week				1. Maandelijkse presentatie
+2. Service charter schrijven				1 week				2. Jaarlijkse digitale wandeling			
+3. Onboarding document maken				1 week				3. Jaarlijkse evenementen organiseren
+4. Selfie naar img2img Avatar maken			1 week
+5. DigipProjects site perfect op orde zetten		1 week
+6. T-shirts bedrukken					1 week
+7. Referral cards make					1 week
+8. Chrome Extension maken				+ weken
+9. AI art expositie houden				+ weken
+10. AI functionaliteit aan Onboarding toevoegen		+ weken	
+11. Promotiefilmpje maken met 3D characters		+ weken
+12. Virale stunt bedenken				+ weken
+13. Digipunt App ontwikkelen				+ maanden
+
+
+Update:
+
+Wheel of misfortune 	1 week
+Digipodcasts		iteratief
+Digiprojects hosten	1 week
+Digiprojects logo	2 weken
+
+
+
+
+Ideeen Projecten:
+
+- Opleiding en/of mentor moment met webmaster/designer/administrator van Ateljee/D09. Leren hoe de website gehost wordt maar ook hulp en tips vragen bij Digiprojects concept.
+- QR-Code project: beginnen met alle Digipunten. Vervolgens navragen bij alle Ateljee subdivisies , bibliotheken , stadsdiensten, etc etc of we een poging mogen doen. Sluikreclame "made by Digipunt".
+- Promofilm project : Wonderdynamics gebruiken, filmen op ateljee locaties, Pinokio variatie "Robotio"?, insturen naar Gent Shortfilmfestival (doe maar, verklaar mij zot, idc)
+- Digitest maken zoals dat ding van AMAL. Navragen wie dat gemaakt heeft, of we kunnen samenzitten, hulp vragen,...
+
+
+
+
+Statuut Digiprojects;
+
+
+
+- Founder-status: 	
+Iedereen dient minimaal één project per jaar te bedenken en uitvoeren.
+Founders hebben de verantwoordelijkheid om hun project te leiden en moeten Collaborators zoeken uit de collega’s om het project tot uitvoering te brengen. 
+Passieprojecten met enkel één Founder zijn toegelaten maar zijn op vrijwillige basis.
+
+- Collaborator-status : 
+Iedereen dient minimaal één keer per jaar als Collaborator betrokken te zijn bij een project. Ze hebben een grote uitvoerende verplichting aan het project.
+
+- Contributor-status: 
+Collega’s die vrijwillig of op vraag een kleinere of eenmalige bijdrage leveren aan een project.
+
+- C.O.O.-status: 
+Roos ontvangt de C.O.O.-status en is verantwoordelijk voor de goedkeuring van projecten die de naam Digiprojects waardig zijn. Overziet dat iedereen zijn nodige bijdrage levert en gaat 'machtsmisbruik' tegen.
+
+- Advisor-status: 
+Bart heeft de Advisor-status en biedt strategisch advies, tips en inzichten om het maximale potentieel van Digiprojects te realiseren. Hij heeft echter geen dwingende beslissingsbevoegdheid over collega's.
+
+- Advocate-status: 
+Tine krijgt de Advocate-status en houdt toezicht op het mentaal welzijn van de teamleden.
+
+- Teamprojecten : 
+Projecten waar het hele team bij betrokken is (zoals het QR-codeproject of de “About Us”-pagina) vallen onder een aparte categorie en moeten goedgekeurd worden door de C.O.O.. Niemand mag verplicht worden om iets te doen dat ze echt niet willen. 
+Iedereen die betrokken is, krijgt Collaborator-status.
+	
+- Mission Statement: 
+Het hoogste doel van Digiprojects is zelfactualisatie en empowerment. Het mag nooit een bron van intense stress of burnout zijn.
+
+-Grassroots karakter:
+Digiprojects is van collega's, door collega's, voor collega's. Ateljee en District09 hebben geen ownership of dwingende rechten. 
+
+Open-source karakter: 
+Digiprojects is open-source en staat voor vrije toegang en samenwerking.
+Digiprojects Remix-mogelijkheden: Collega’s die geïnspireerd worden door bestaande Digiprojects, kunnen hun eigen versie maken (bijvoorbeeld een variatie op het “Wheel of Misfortune”).
+
+
+
+
